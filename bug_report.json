@@ -1,1 +1,24 @@
-
+{
+    "head": {
+      "id": "br1",
+      "project": "weather",
+      "status": "new",
+      "reporter": "iwanow",
+      "submite date": "09.05.23",
+      "environment": "ios 16.4.1"
+    },
+  
+    "body": {
+      "summary": "lock screen widget doesn't auto update",
+      "str": ["1.choose ls widget and install it", "2.open the ls and review installed widget", 
+              "3.tap on this widget", "4.change country and city"],
+      "er": "the weather forecast changes",
+      "ar": "the weather doesn't change"
+    },
+  
+    "footer": {
+      "requirements": "frq 1.2.5",
+      "severity": "major"
+    }
+  
+}
