@@ -1,5 +1,5 @@
 **JSON<br>
- 4. Создать внешний репозиторий c названием JSON -> GitHub>Repositories>New "JSON" repositories<br>
+ 4. Создать внешний репозиторий c названием JSON -> `GitHub>Repositories>New "JSON" repositories`<br>
  5. Клонировать репозиторий JSON на локальный компьютер -> git clone ssh-link<br>
  6. Внутри локального JSON создать файл “new.json” -> touch new.json<br>
  7. Добавить файл под гит -> git add new.json<br>
