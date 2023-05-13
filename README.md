@@ -13,6 +13,6 @@
  15. Отправить сразу 2 файла на внешний репозиторий -> `git add * >git commit -m "new files">git push`<br>
  16. На веб интерфейсе создать файл bug_report.json<br> -> `Github>Repositories>"JSON">Add file>Create new file`<br>
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе -> `Tap on the [Commit changes...]button`<br>
- 18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON<br> -> `bug_report.json>[Edit this file]`<br>
+ 18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON -> `bug_report.json>[Edit this file]`<br>
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе -> `Tap on the [Commit changes...]button`<br>
  20. Синхронизировать внешний и локальный репозиторий JSON -> `git pull`<br>
